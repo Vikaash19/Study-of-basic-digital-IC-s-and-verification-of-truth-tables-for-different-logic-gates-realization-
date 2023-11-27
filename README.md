@@ -73,6 +73,7 @@ RegisterNumber:  23013426
 ![timing dig](https://github.com/Vikaash19/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514589/ced11662-3b51-42e3-8253-d52b250911dc)
 
 ## Truth table
+![Exp1 truthtable](https://github.com/Vikaash19/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514589/86ef4de0-499b-4df4-960f-c78ab9ca45da)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
