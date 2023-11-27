@@ -5,8 +5,8 @@ To study about the different digital IC’s and to verify the truth table in Qua
 # Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-## Theory
-## Introduction
+## Theory:
+## Introduction:
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate
@@ -66,13 +66,13 @@ RegisterNumber:  23013426
 
 ![logic](https://github.com/Vikaash19/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514589/bcff1833-7435-44f5-805b-7f666bea7653)
 
-## RTL logic
+## RTL logic:
 ![rtl relalization ](https://github.com/Vikaash19/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514589/f1a9499a-56ca-4669-b60a-282c042a945e)
 
-## Timing diagram
+## Timing diagram:
 ![timing dig](https://github.com/Vikaash19/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514589/ced11662-3b51-42e3-8253-d52b250911dc)
 
-## Truth table
+## Truth table:
 ![Exp1 truthtable](https://github.com/Vikaash19/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148514589/86ef4de0-499b-4df4-960f-c78ab9ca45da)
 
 ## Result:
